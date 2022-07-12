@@ -1,5 +1,4 @@
 # Tom 👋
-****
 [![Twitter Badge](https://img.shields.io/badge/-@golang-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/golang)](https://twitter.com/golang)
 
 <link href="https://languages.abranhe.com/logos.css" rel="stylesheet">
