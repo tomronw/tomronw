@@ -13,13 +13,11 @@
 * Automation
 
 ### Languages:
-<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="25" width="25">
-<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/go/go.png" height="25" width="25">
-<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="25" width="25">
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="25" width="25"> <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/go/go.png" height="25" width="25"> <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="25" width="25">
+
 
 ### Future plans:
-<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/swift/swift.png" height="25" width="25">
-<img src="https://www.rust-lang.org/logos/rust-logo-512x512.png" height="25" width="25">
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/swift/swift.png" height="25" width="25"> <img src="https://www.rust-lang.org/logos/rust-logo-512x512.png" height="25" width="25">
 
 ****
 
