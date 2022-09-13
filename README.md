@@ -16,7 +16,7 @@
 
 
 ### Future plans:
-<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/swift/swift.png" height="25" width="25"> <img src="https://www.rust-lang.org/logos/rust-logo-512x512.png" height="25" width="25">
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/swift/swift.png" height="25" width="25"> <img src="https://www.rust-lang.org/logos/rust-logo-512x512.png" height="25" width="25"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="25" width="25">
 
 ****
 
