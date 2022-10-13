@@ -24,4 +24,4 @@
 
 **FootGo**
 
-<img src="https://i.ibb.co/R0fhsmg/foot-Go-Logo.png" width="50" height="50">
+<img src="https://i.ibb.co/R0fhsmg/foot-Go-Logo.png" width="60" height="60">
