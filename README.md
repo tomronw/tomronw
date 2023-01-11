@@ -6,10 +6,10 @@
 
 ## About me 😁
 ### Interests
-* Blockchain/Web3
 * WAF reverse engineering
 * Site exploitation
 * Automation
+* APIs
 
 ### Languages:
 <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="25" width="25"> <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/go/go.png" height="25" width="25"> <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="25" width="25">
