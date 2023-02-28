@@ -30,4 +30,4 @@
 
 **FootGo**
 
-<img src="https://i.ibb.co/R0fhsmg/foot-Go-Logo.png" width="60" height="60">
+<img src="https://i.ibb.co/P5V3hwf/footgo.png" width="80" height="80">
