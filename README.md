@@ -27,8 +27,8 @@
 ****
 
 ### Projects
-
-<div align="left">
 **FootGo** 
+- Automation written in Go providing valid solutions for WAF's
+<div align="left">
 <img src="https://i.ibb.co/P5V3hwf/footgo.png" width="80" height="80">
 </div>
