@@ -13,7 +13,7 @@
 
 ### Languages/Tools I frequently use:
 <div align="left"> 
-<a><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="25" width="25"></a>
+<a><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="35" width="35"></a>
 <a><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/go/go.png" height="25" width="25"> </a>
 <a><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="25" width="25"></a>
 <a><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="25" width="25"></a>
