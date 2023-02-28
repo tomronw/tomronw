@@ -17,7 +17,7 @@
 <a><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/go/go.png" height="35" width="35"> </a>
 <a><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="35" width="35"></a>
 <a><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="35" width="35"></a>
-<a><img style="margin: 10px" src="https://media.wired.com/photos/59266b6daf95806129f4f659/master/w_2560%2Cc_limit/RaspberryPiTA.jpg" alt="Raspberry Pi" height="35" width="35" /></a> 
+<a><img src="https://i0.wp.com/linuxnewbieguide.org/wp-content/uploads/2017/06/pi_logo.png" alt="Raspberry Pi" height="35" width="35" /></a> 
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="35" width="35" /></a>  
 </div> 
 
