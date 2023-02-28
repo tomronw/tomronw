@@ -28,6 +28,7 @@
 
 ### Projects
 
-**FootGo**
-
+<div align="left">
+**FootGo** 
 <img src="https://i.ibb.co/P5V3hwf/footgo.png" width="80" height="80">
+</div>
