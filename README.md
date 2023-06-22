@@ -27,6 +27,14 @@
 ****
 
 #### Projects
+
+**[johgo](https://github.com/tomronw/johgo)**
+- Open source search engine built with React JS/Go!
+<div align="left">
+<img src="https://johgo.xyz/static/media/johgoLogo.3543a866581879dbfb14.png" width="80" height="80">
+</div>
+
+- 
 **[Linux systemd service generator](https://github.com/tomronw/linux_service_generator)**
 - Generates system services for .py and .go files!
 
