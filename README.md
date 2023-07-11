@@ -30,7 +30,7 @@
 **[johgo](https://github.com/tomronw/johgo)**
 - Open source search engine built with React JS/Go!
 <div align="left">
-<img src="[https://raw.githubusercontent.com/tomronw/johgo/main/frontend/src/images/johgoLogo.png](https://raw.githubusercontent.com/tomronw/johgo/main/frontend/src/images/johgoLogo.png)" width="120" height="80">
+<img src="[image](https://raw.githubusercontent.com/tomronw/johgo/main/frontend/src/images/johgoLogo.png)" width="120" height="80">
 </div>
 
 
