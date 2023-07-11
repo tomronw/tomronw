@@ -25,13 +25,12 @@
 <img src="https://www.rust-lang.org/logos/rust-logo-512x512.png" height="35" width="35"> 
 
 ****
-
 #### Projects
 
 **[johgo](https://github.com/tomronw/johgo)**
 - Open source search engine built with React JS/Go!
 <div align="left">
-<img src="[https://johgo.xyz/static/media/johgoLogo.3543a866581879dbfb14.png](https://github.com/tomronw/johgo/blob/main/frontend/src/images/johgoLogo.png?raw=true)" width="120" height="80">
+<img src="[https://raw.githubusercontent.com/tomronw/johgo/main/frontend/src/images/johgoLogo.png](https://raw.githubusercontent.com/tomronw/johgo/main/frontend/src/images/johgoLogo.png)" width="120" height="80">
 </div>
 
 
