@@ -18,7 +18,9 @@
 <a><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="35" width="35"></a>
 <a><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" height="35" width="35"></a>
 <a><img src="https://upload.wikimedia.org/wikipedia/de/thumb/c/cb/Raspberry_Pi_Logo.svg/475px-Raspberry_Pi_Logo.svg.png" alt="Raspberry Pi" height="35" width="35" /></a> 
-<a><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="35" width="35"></a>
+<a><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" height="35" width="35"></a>
+<a><img src="https://github.com/get-icon/geticon/raw/master/icons/electron.svg" height="35" width="35"></a>
+<a><img src="https://github.com/get-icon/geticon/raw/master/icons/aws.svg" height="35" width="35"></a>
 </div> 
 
 #### Future plans:
