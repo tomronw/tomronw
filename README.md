@@ -30,7 +30,13 @@
 **[johgo](https://github.com/tomronw/johgo)**
 - Open source search engine built with React JS/Go!
 <div align="left">
-<img src="[image](https://raw.githubusercontent.com/tomronw/johgo/main/frontend/src/images/johgoLogo.png)" width="120" height="80">
+<img src="[image](https://i.ibb.co/8mjpxbF/johgo-Logo.png)" width="120" height="80">
+</div>
+
+**[haversine](https://github.com/tomronw/haversine)**
+- Pure Go implementation of haversine. Computes the Haversine distance between two geo-coordinates, and checks if they're within a specified radius (in km) of each other.
+<div align="left">
+<img src="[image](https://i.ibb.co/8mjpxbF/johgo-Logo.png)" width="120" height="80">
 </div>
 
 
