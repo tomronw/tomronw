@@ -25,11 +25,11 @@
 ****
 #### Projects
 
-**[johgo](https://johgo.xyz)**
-- Free search engine built with React JS/Go!
 <div align="left">
 <img src="https://johgo.xyz/assets/johgoLogo-6ZFzMrIo.png" width="120" height="80">
 </div>
+**[johgo](https://johgo.xyz)**
+- Free search engine built with React JS/Go!
 
 **[haversine](https://github.com/tomronw/haversine)**
 - Pure Go implementation of haversine. Computes the Haversine distance between two geo-coordinates, and checks if they're within a specified radius (in km) of each other.
