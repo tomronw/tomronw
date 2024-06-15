@@ -23,16 +23,13 @@
 <a><img src="https://github.com/get-icon/geticon/raw/master/icons/aws.svg" height="35" width="35"></a>
 </div> 
 
-#### Future plans:
-<img src="https://www.rust-lang.org/logos/rust-logo-512x512.png" height="35" width="35"> 
-
 ****
 #### Projects
 
-**[johgo](https://github.com/tomronw/johgo)**
+**[johgo](https://johgo.xyz)**
 - Open source search engine built with React JS/Go!
 <div align="left">
-<img src="https://i.ibb.co/8mjpxbF/johgo-Logo.png" width="120" height="80">
+<img src="https://johgo.xyz/assets/johgoLogo-6ZFzMrIo.png" width="120" height="80">
 </div>
 
 **[haversine](https://github.com/tomronw/haversine)**
