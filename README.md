@@ -38,9 +38,3 @@
 
 **[Linux systemd service generator](https://github.com/tomronw/linux_service_generator)**
 - Generates system services for .py and .go files!
-
-**FootGo** 
-- Automation written in Go providing valid solutions for WAF's
-<div align="left">
-<img src="https://i.ibb.co/P5V3hwf/footgo.png" width="80" height="80">
-</div>
