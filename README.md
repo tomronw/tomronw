@@ -28,6 +28,7 @@
 <div align="left">
 <img src="https://johgo.xyz/assets/johgoLogo-6ZFzMrIo.png" width="120" height="80">
 </div>
+
 **[johgo](https://johgo.xyz)**
 - Free search engine built with React JS/Go!
 
