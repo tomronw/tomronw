@@ -42,13 +42,18 @@
 
 ### 🧪 Projects
 
-<p> <img src="./assets/johgoLogo.png" alt="Johgo Logo" width="30" style="vertical-align: middle; margin-right: 10px;" /> <strong><a href="https://johgo.xyz">Johgo</a></strong> </p> <blockquote>UK’s most popular TCG product search engine!</blockquote>
-<br/>
+<p>
+  <img src="./assets/johgoLogo.png" alt="Johgo Logo" width="20" style="vertical-align: middle; margin-right: 6px;" />
+  <strong><a href="https://johgo.xyz">Johgo</a></strong>
+</p>
+<blockquote>UK’s most popular TCG product search engine!</blockquote>
+
 **[Haversine](https://github.com/tomronw/haversine)**  
 > Pure Go implementation of the haversine formula for geospatial distance checking.
 
 **[Linux systemd service generator](https://github.com/tomronw/linux_service_generator)**  
 > Generates `.service` files for `.py` and `.go` executables—run anything like a native service.
+
 
 ---
 
